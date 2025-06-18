@@ -1,9 +1,9 @@
 {
-    "name": "ᴀʟᴘʜᴀ ʙᴀɴ ᴀʟʟ",
+    "name": "XQUEEN BAN ALL TG BOT",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
-    "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
+    "logo": "https://files.catbox.moe/bem47n.jpg",
+    "keywords": ["TEAM-XQUEEN", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/ASIFXQUEEN/QXQUEENTGBANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
@@ -11,7 +11,7 @@
             "required": true
         },
         "OWNER": {
-            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ll_ALPHA_BABY_lll",
+            "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ASHLF903",
             "required": true,
             "value": ""
         },
