@@ -34,7 +34,7 @@ async def start_command(client, message: Message):
     user = message.from_user
     await message.reply_photo(
         photo=f"https://files.catbox.moe/a0l6kq.jpg",
-        caption=f"**✦ » ʜᴇʏ {user.mention}**\n**✦ » ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙʀᴀʀʏ.**\n\n**✦ » 𝗝𝗢 𝗞𝗔𝗥𝗡𝗔 𝗛𝗔𝗜 𝗞𝗔𝗥𝗢 𝗕𝗔𝗦 𝗤𝗨𝗘𝗘𝗡 𝗞𝗢 𝗚𝗨𝗦𝗛𝗔 𝗠𝗔𝗧 𝗗𝗜𝗟𝗔𝗡𝗔 𝗢𝗥𝗥 𝗬𝗘 𝗠𝗔𝗧 𝗕𝗢𝗟𝗡𝗔 𝗞𝗜 𝗧𝗨𝗠 𝗦𝗥𝗜𝗙 𝗔𝗗𝗠𝗜𝗡 𝗞𝗘 𝗦𝗔𝗔𝗧𝗛 𝗛𝗜 𝗕𝗔𝗔𝗧 𝗞𝗔𝗥𝗧𝗘 𝗛𝗢.**\n\n**✦ » ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪᴠᴇ ᴍᴇ ғᴜʟʟ ᴘᴏᴡᴇʀs ᴀɴᴅ ᴛʏᴘᴇ `/queenxxxxxx full comnd ke liye 👉@ASHlF903` ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ.**\n\n**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  <a href=t.me/ARAME9>⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭꯭̽🥂꯭༎꯭ 𓆪꯭ </a>**",
+        caption=f"**✦ » ʜᴇʏ {user.mention}**\n**✦ » ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙʀᴀʀʏ.**\n\n**✦ » 𝗝𝗢 𝗞𝗔𝗥𝗡𝗔 𝗛𝗔𝗜 𝗞𝗔𝗥𝗢 𝗕𝗔𝗦 𝗤𝗨𝗘𝗘𝗡 𝗞𝗢 𝗚𝗨𝗦𝗛𝗔 𝗠𝗔𝗧 𝗗𝗜𝗟𝗔𝗡𝗔 𝗢𝗥𝗥 𝗬𝗘 𝗠𝗔𝗧 𝗕𝗢𝗟𝗡𝗔 𝗞𝗜 𝗧𝗨𝗠 𝗦𝗥𝗜𝗙 𝗔𝗗𝗠𝗜𝗡 𝗞𝗘 𝗦𝗔𝗔𝗧𝗛 𝗛𝗜 𝗕𝗔𝗔𝗧 𝗞𝗔𝗥𝗧𝗘 𝗛𝗢.**\n\n**✦ » ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪᴠᴇ ᴍᴇ ғᴜʟʟ ᴘᴏᴡᴇʀs ᴀɴᴅ ᴛʏᴘᴇ `/queenxxxxxx full comnd ke liye 👉@ASHlF903` ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ.**\n\n**✦ » 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  <a href=t.me/ARAME9>❛꯭𓂀⎯⃟⃝ 𝐗⃪꯭𝐐⃪꯭𝐔⃪꯭𝐄⃪꯭𝐄⃪꯭𝐍 ⎯𓂀❜</a>**",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
